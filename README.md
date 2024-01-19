@@ -23,7 +23,7 @@ http://<ip_pública>:9080
 
 Notas:  
 
-Si tienes problemas de permisos ejecutar los comandos, usar sudo. 
+Si tienes problemas de permisos al ejecutar los comandos, usar sudo. 
 
 Si el contenedor ya está creado, pero quieres volver a crearlo => sudo docker rm -f g47-product-page 
 
