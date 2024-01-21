@@ -14,7 +14,7 @@ RUN python3 -m pip install -r requirements.txt
 EXPOSE 9080
 
 # Definir la variable de entorno GROUPO_NUMERO
-ENV GROUPO_NUMERO=47
+ENV GROUP_NUMBER=47
 
 # Comando para ejecutar la aplicación
 CMD ["python", "productpage_monolith.py", "9080"]
