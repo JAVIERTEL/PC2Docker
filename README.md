@@ -25,8 +25,10 @@ Notas:
 
 Si tienes problemas de permisos al ejecutar los comandos, usar sudo. 
 
-Si el contenedor ya está creado, pero quieres volver a crearlo => sudo docker rm -f g47-product-page 
-
+Si el contenedor ya está creado, pero quieres volver a crearlo :
+```
+sudo docker rm -f g47-product-page 
+```
  
 
  
